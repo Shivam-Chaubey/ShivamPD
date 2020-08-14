@@ -1,0 +1,22 @@
+    shivam-PD version 1.0
+    This python package is created to help user to perform complex 
+  	mathematical operations in Probability Distribution.
+  
+    Following Distributions can be obtained:
+      1. Gaussian Probability Distribution
+      2. Binomial Probability Distibution
+   
+    Copyright (C) 2020  Shivam Ramesh Chaubey
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
